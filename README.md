@@ -1,2 +1,2 @@
-# IIITDgo
-A game based on AR and made using unity, for the special and very small community of IIITD
+# Processing Game
+Using processing for android, implemented the Chidiya Udd game.
